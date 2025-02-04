@@ -6,6 +6,15 @@ Users can **download, modify, and use** these diagrams in PowerPoint or Inkscape
 
 ---
 
+## 🗂️ Repository Structure
+📂 ai_systems/ # AI-related block diagrams ├── ai_diagram1.svg ├── ai_diagram2.svg ├── ai_diagram3.svg
+
+📂 ic_systems/ # IC hardware block diagrams ├── ic_diagram1.svg ├── ic_diagram2.svg ├── ic_diagram3.svg
+
+📄 README.md # Project instructions 📄 LICENSE # Open-source license
+
+---
+
 ## 🛠️ Steps to Use the Block Diagram
 
 1. **Download** the block diagram in **SVG format** from the `ai systems/` and `ic systems/` folder.
@@ -21,12 +30,12 @@ Users can **download, modify, and use** these diagrams in PowerPoint or Inkscape
 ## 🤝 Contribute
 We welcome contributions! Here’s how you can help:
 1. **Fork** this repository.
-2. Add a **new SVG block diagram** to the folder.
-3. Submit a **pull request (PR)** with your changes.
-
+2. Add your **new SVG block diagram** to the appropriate folder (`ai_systems/` or `ic_systems/`).
+3. Submit a **pull request (PR)** with a meaningful commit message.
+   
 💡 **Guidelines:**  
-- Use **descriptive names** for SVG files (e.g., `ai_system_block.svg`).  
-- Make sure **SVGs are properly structured** for easy editing.  
+- Make sure **SVGs are structured properly** for easy editing.  
+- Ensure **SVG files are ungrouped** before uploading so that individual elements can be modified.
 
 ---
 
