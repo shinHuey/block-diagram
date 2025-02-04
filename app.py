@@ -8,8 +8,8 @@ app = Flask(__name__, template_folder=os.path.join(os.getcwd(), "app/templates")
 
 
 # Configure Upload & Output Folders
-UPLOAD_FOLDER = "uploads"
-OUTPUT_FOLDER = "converted_svgs"
+UPLOAD_FOLDER = "/tmp/uploads"
+OUTPUT_FOLDER = "tmp/converted_svgs"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
@@ -62,4 +62,4 @@ def download_file(filename):
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))  # Render assigns a port, default to 10000
-    app.run(host="0.0.0.0", port=port, debug=True)
+    app.run(host="0.0.0.0", port=port, debug=False)
