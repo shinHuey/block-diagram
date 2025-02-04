@@ -53,7 +53,8 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
 4. **Run the Application**
 python app.py
-5. **Access the Tool**Open your browser and navigate to **http://127.0.0.1:5000/** to upload a **PPT/PPTX** file and download the **converted SVGs**.
+5. **Access the Tool**
+Open your browser and navigate to **http://127.0.0.1:5000/** to upload a **PPT/PPTX** file and download the **converted SVGs**.
 ---
 ## 🌍 Live Demo
 Try the PPT to SVG Converter: [Click Here](https://your-app-name.onrender.com/)
