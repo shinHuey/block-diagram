@@ -40,7 +40,9 @@ We welcome contributions! Here’s how you can help:
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**, meaning it’s free to use for **personal and commercial projects**.
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute the diagrams under this license.  
+See the [LICENSE](LICENSE) file for more details.
 
 ---
 
