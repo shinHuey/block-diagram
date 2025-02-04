@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10in" height="5.625in" class="slides-canvas" viewBox="0 0 720 405">
+  <defs>
+    <marker id="ah1" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="7" viewBox="-6 -3.5 12 7" orient="auto">
+      <path d="M2.7 -0L-0.3 1.5-0.3-1.5 2.7 -0z" fill="#4472C4" />
+    </marker>
+  </defs>
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <rect x="0" y="0" width="720" height="405" fill="#FFFFFF" />
+    <path fill="#E7E6E6" d="M43.77 42.84L185.15 42.84 185.15 78.84 43.77 78.84z" />
+    <g transform="matrix(1, 0, 0, 1, 50.972446, 46.43992)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="10.575409" y="20.448002"><tspan x="10.575409" y="20.448002">EEG Recording</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 218.12276, 57.6)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="9.925003" y="19.776001"><tspan x="9.925003" y="19.776001">Stimulus</tspan></text></g>
+    <path fill="#E7E6E6" d="M37.96 119.93L189.65 119.93 189.65 155.93 37.96 155.93z" />
+    <g transform="matrix(1, 0, 0, 1, 45.163933, 123.53181)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="4.331993" y="20.448002"><tspan x="4.331993" y="20.448002">Signal Acquisition</tspan></text></g>
+    <path fill="#E7E6E6" d="M25.58 182.79L205.58 182.79 205.58 218.79 25.58 218.79z" />
+    <g transform="matrix(1, 0, 0, 1, 32.78409, 186.39473)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="31.813675" y="20.448002"><tspan x="31.813675" y="20.448002">Preprocessing</tspan></text></g>
+    <path fill="#FFFFFF" d="M7.69 228.19L149.07 228.19 149.07 244.48 7.69 244.48z" />
+    <g transform="matrix(1, 0, 0, 1, 14.888981, 231.78702)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="14.699921" y="9.923361"><tspan x="14.699921" y="9.923361">Temporal Filter</tspan></text></g>
+    <path fill="#FFFFFF" d="M1.75 249.81L137.37 249.81 137.37 267.76 1.75 267.76z" />
+    <g transform="matrix(1, 0, 0, 1, 8.951099, 253.41063)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="22.479721" y="10.752337"><tspan x="22.479721" y="10.752337">Notch Filter</tspan></text></g>
+    <path fill="#E7E6E6" d="M23.81 302.64L203.81 302.64 203.81 338.64 23.81 338.64z" />
+    <g transform="matrix(1, 0, 0, 1, 31.008423, 306.23685)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="15.854691" y="20.448002"><tspan x="15.854691" y="20.448002">Feature Extraction</tspan></text></g>
+    <path fill="#FFFFFF" d="M3.59 343.75L183.59 343.75 183.59 369.38 3.59 369.38z" />
+    <g transform="matrix(1, 0, 0, 1, 10.785744, 347.34842)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="23.77266" y="14.592692"><tspan x="23.77266" y="14.592692">Spatial Filter (CSP)</tspan></text></g>
+    <path fill="#FFFFFF" d="M3.59 368.88L145.15 368.88 145.15 388.24 3.59 388.24z" />
+    <g transform="matrix(1, 0, 0, 1, 10.785748, 372.4752)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="24.529068" y="11.456157"><tspan x="24.529068" y="11.456157">Band Power</tspan></text></g>
+    <path fill="#E7E6E6" d="M294.63 210.6L474.63 210.6 474.63 246.6 294.63 246.6z" />
+    <g transform="matrix(1, 0, 0, 1, 301.83154, 214.20001)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="4.2501984" y="20.448002"><tspan x="4.2501984" y="20.448002">Translation Algorithm</tspan></text></g>
+    <path fill="#FFFFFF" d="M267.42 252L447.42 252 447.42 288 267.42 288z" />
+    <g transform="matrix(1, 0, 0, 1, 274.6197, 255.6)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="34.29219" y="19.776001"><tspan x="34.29219" y="19.776001">Classifier (LDA)</tspan></text></g>
+    <path fill="#E7E6E6" d="M510.38 210.6L690.38 210.6 690.38 246.6 510.38 246.6z" />
+    <g transform="matrix(1, 0, 0, 1, 517.57794, 214.20001)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="22.088089" y="20.448002"><tspan x="22.088089" y="20.448002">Robot Controller</tspan></text></g>
+    <path fill="#E7E6E6" d="M510.38 41.97L690.38 41.97 690.38 77.97 510.38 77.97z" />
+    <g transform="matrix(1, 0, 0, 1, 517.57794, 45.568428)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="8.094437" y="20.448002"><tspan x="8.094437" y="20.448002">Robot (Stäubli TX60)</tspan></text></g>
+    <path fill="#E7E6E6" d="M334.62 42.06L441.67 42.06 441.67 78.06 334.62 78.06z" />
+    <g transform="matrix(1, 0, 0, 1, 341.81787, 45.663307)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="19.52015" y="20.448002"><tspan x="19.52015" y="20.448002">Flickers</tspan></text></g>
+    <g transform="matrix(-1, -0, 0, 1, 519.76825, 0)">
+      <path stroke-dasharray="2, 1.5" marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M185.15 60.06L331.72 60.82 331.97 60.83" />
+    </g>
+    <g transform="matrix(-0, 1, -1, -0, 399.82388, -315.01553)">
+      <path stroke-dasharray="2, 1.5" marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M356.98-200.55L338.98-200.55 338.98 285.36 354.97 285.36 355.22 285.36" />
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 324.96457, -1.7316532)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="7.0421906" y="19.776001"><tspan x="7.0421906" y="19.776001">Feedback</tspan></text></g>
+    <g transform="matrix(-1, -0, 0, 1, 228.26984, 0)">
+      <path stroke-dasharray="2, 1.5" marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M113.81 78.84L114.42 117.02 114.42 117.27" />
+    </g>
+    <path fill="#FFFFFF" d="M7.69 87.12L223.48 87.12 223.48 106.48 7.69 106.48z" />
+    <g transform="matrix(1, 0, 0, 1, 14.888977, 90.723854)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="45.73813" y="11.456157"><tspan x="45.73813" y="11.456157">Wireless transfer</tspan></text></g>
+    <path stroke-width="1" stroke="#172C51" fill="none" d="M18 175.12L210.92 175.12 210.92 270.14 18 270.14z" />
+    <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M113.81 155.93L114.36 172.18 114.37 172.43" />
+    <path stroke-width="1" stroke="#172C51" fill="none" d="M19.12 297.32L212.05 297.32 212.05 392.34 19.12 392.34z" />
+    <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M114.46 270.14L115.46 294.37 115.47 294.62" />
+    <g transform="matrix(1, 0, -0, -1, 0, 591.48804)">
+      <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M212.05 246.66L247.24 246.66 247.24 344.83 279.55 344.83 279.8 344.83" />
+    </g>
+    <path stroke-width="1" stroke="#172C51" fill="none" d="M282.44 200.79L485.75 200.79 485.75 292.53 282.44 292.53z" />
+    <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M485.75 228.19L507.47 228.55 507.72 228.56" />
+    <g transform="matrix(1, 0, -0, -1, 0, 288.56842)">
+      <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M600.38 77.97L600.38 207.71 600.38 207.96" />
+    </g><text font-family="Arial" font-style="normal" font-weight="bold" font-stretch="normal" font-size="18pt" fill="#FFD8CF" fill-opacity="0.75" x="268.125" y="162.28125"><tspan x="267.91287" y="162.06912" textLength="183.75" id="tp_0_shadow" fill="#000000">Evaluation only.</tspan><tspan x="268.125" y="162.28125" textLength="183.75" id="tp_0">Evaluation only.</tspan><tspan x="58.60037" y="188.88162" textLength="602.375" id="tp_1_shadow" fill="#000000">Created with Aspose.Slides for Python via .NET 25.1.</tspan><tspan x="58.8125" y="189.09375" textLength="602.375" id="tp_1">Created with Aspose.Slides for Python via .NET 25.1.</tspan><tspan x="151.72537" y="215.69412" textLength="416.125" id="tp_2_shadow" fill="#000000">Copyright 2004-2025Aspose Pty Ltd.</tspan><tspan x="151.9375" y="215.90625" textLength="416.125" id="tp_2">Copyright 2004-2025Aspose Pty Ltd.</tspan></text></g>
+</svg>

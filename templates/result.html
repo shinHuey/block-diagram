@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Converted SVGs</title>
+</head>
+<body>
+    <h2>Download Your Converted SVG Files</h2>
+    <ul>
+        {% for svg in svg_files %}
+            <li><a href="{{ url_for('download_file', filename=svg.split('/')[-1]) }}">{{ svg.split('/')[-1] }}</a></li>
+        {% endfor %}
+    </ul>
+    <a href="/">Upload Another File</a>
+</body>
+</html>

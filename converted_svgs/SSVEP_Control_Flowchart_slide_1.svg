@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10in" height="5.625in" class="slides-canvas" viewBox="0 0 720 405">
+  <defs>
+    <marker id="ah1" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="7" viewBox="-6 -3.5 12 7" orient="auto">
+      <path d="M2.7 -0L-0.3 1.5-0.3-1.5 2.7 -0z" fill="#4472C4" />
+    </marker>
+  </defs>
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <rect x="0" y="0" width="720" height="405" fill="#FFFFFF" />
+    <path fill="#D9D9D9" d="M28.01 36L280.01 36 280.01 72 28.01 72z" />
+    <g transform="matrix(1, 0, 0, 1, 35.21031, 39.6)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="6.051956" y="20.448002"><tspan x="6.051956" y="20.448002">SSVEP Stimuli (Flicker Monitor)</tspan></text></g>
+    <path fill="#FFFFFF" d="M323.14 76.93L492.18 76.93 492.18 112.93 323.14 112.93z" />
+    <g transform="matrix(1, 0, 0, 1, 330.33923, 80.52575)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="37.008644" y="29.376003"><tspan x="40.602394" y="10.176">EEG Signals</tspan><tspan xml:space="preserve" x="114.039894" y="10.176"> </tspan><tspan x="37.008644" y="29.376003">(8 Channels)</tspan></text></g>
+    <path fill="#D9D9D9" d="M422.64 271.96L616.85 271.96 616.85 307.96 422.64 307.96z" />
+    <g transform="matrix(1, 0, 0, 1, 429.8421, 275.5563)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="27.5503" y="20.448002"><tspan x="27.5503" y="20.448002">Signal Processing</tspan></text></g>
+    <path fill="#D9D9D9" d="M50.89 271.96L297.3 271.96 297.3 307.96 50.89 307.96z" />
+    <g transform="matrix(1, 0, 0, 1, 58.094803, 275.5564)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="0.6620636" y="20.448002"><tspan x="0.6620636" y="20.448002">Classification (Decision Making)</tspan></text></g>
+    <path fill="#D9D9D9" d="M35.02 166.52L179.02 166.52 179.02 202.52 35.02 202.52z" />
+    <g transform="matrix(1, 0, 0, 1, 42.22425, 170.11797)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="14.153519" y="20.448002"><tspan x="14.153519" y="20.448002">Control Signal</tspan></text></g>
+    <path fill="#D9D9D9" d="M278.64 166.12L422.64 166.12 422.64 202.12 278.64 202.12z" />
+    <g transform="matrix(1, 0, 0, 1, 285.8421, 169.72142)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="12.677444" y="20.448002"><tspan x="12.677444" y="20.448002">Laptop/Phone</tspan></text></g>
+    <path fill="#D9D9D9" d="M345.41 36L460.99 36 460.99 72 345.41 72z" />
+    <g transform="matrix(1, 0, 0, 1, 352.60922, 39.6)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="31.649021" y="20.448002"><tspan x="31.649021" y="20.448002">Brain</tspan></text></g>
+    <path fill="#D9D9D9" d="M519.75 36L663.75 36 663.75 72 519.75 72z" />
+    <g transform="matrix(1, 0, 0, 1, 526.9474, 39.6)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="4.6789093" y="20.448002"><tspan x="4.6789093" y="20.448002">Signals recorded</tspan><tspan xml:space="preserve" x="124.9211" y="20.448002"> </tspan></text></g>
+    <path fill="#D9D9D9" d="M519.75 163.37L663.75 163.37 663.75 199.37 519.75 199.37z" />
+    <g transform="matrix(1, 0, 0, 1, 526.9474, 166.97488)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="18.237503" y="20.44796"><tspan x="18.237503" y="20.44796">Bio amplifier</tspan><tspan xml:space="preserve" x="111.3625" y="20.44796"> </tspan></text></g>
+    <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M492.18 54L516.86 54 517.11 54" />
+    <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M591.75 72L591.75 160.49 591.75 160.74" />
+    <path fill="#FFFFFF" d="M422.64 319.47L616.85 319.47 616.85 355.47 422.64 355.47z" />
+    <g transform="matrix(1, 0, 0, 1, 429.8421, 323.0667)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="57.108406" y="29.376003"><tspan x="30.913094" y="10.176">Filtering + Feature</tspan><tspan xml:space="preserve" x="148.89746" y="10.176"> </tspan><tspan x="57.108406" y="29.376003">Extraction</tspan></text></g>
+    <path stroke-width="1" stroke="#000000" fill="none" d="M323.14 24.51L492.18 24.51 492.18 119.49 323.14 119.49z" />
+    <path stroke-width="1" stroke="#000000" fill="none" d="M412.37 262.77L627.13 262.77 627.13 368.97 412.37 368.97z" />
+    <path stroke-width="1" stroke="#000000" fill="none" d="M12.27 24.51L296.53 24.51 296.53 119.49 12.27 119.49z" />
+    <path fill="#FFFFFF" d="M56.93 76.23L251.14 76.23 251.14 112.23 56.93 112.23z" />
+    <g transform="matrix(1, 0, 0, 1, 64.128746, 79.833145)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="33.71778" y="19.776001"><tspan x="33.71778" y="19.776001" xml:space="preserve">20Hz</tspan><tspan xml:space="preserve" x="66.34278" y="19.776001">  </tspan><tspan x="73.59278" y="19.776001" xml:space="preserve">15Hz</tspan><tspan xml:space="preserve" x="106.21778" y="19.776001">  </tspan><tspan x="113.46778" y="19.776001" xml:space="preserve">10Hz</tspan></text></g>
+    <g transform="matrix(-1, -0, 0, 1, 619.6653, 0)">
+      <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M296.53 54L320.25 54 320.5 54" />
+    </g>
+    <path fill="#FFFFFF" d="M77.89 310.07L272.11 310.07 272.11 346.07 77.89 346.07z" />
+    <g transform="matrix(1, 0, 0, 1, 85.09481, 313.67426)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="31.967781" y="19.776001"><tspan x="31.967781" y="19.776001">Machine Learning</tspan></text></g>
+    <path stroke-width="1" stroke="#000000" fill="none" d="M40.62 262.77L307.63 262.77 307.63 368.97 40.62 368.97z" />
+    <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M591.75 199.37L591.75 259.88 591.75 260.13" />
+    <g transform="matrix(-1, -0, 0, 1, 720.00006, 0)">
+      <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M307.63 315.87L409.48 315.87 409.73 315.87" />
+    </g>
+    <g transform="matrix(1, 0, -0, -1, 0, 465.28568)">
+      <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M107.02 202.52L107.02 259.88 107.02 260.13" />
+    </g>
+    <g transform="matrix(1, 0, -0, -1, 0, 368.63937)">
+      <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M179.02 184.12L275.75 184.51 276 184.51" />
+    </g><text font-family="Arial" font-style="normal" font-weight="bold" font-stretch="normal" font-size="18pt" fill="#FFD8CF" fill-opacity="0.75" x="268.125" y="162.28125"><tspan x="267.91287" y="162.06912" textLength="183.75" id="tp_0_shadow" fill="#000000">Evaluation only.</tspan><tspan x="268.125" y="162.28125" textLength="183.75" id="tp_0">Evaluation only.</tspan><tspan x="58.60037" y="188.88162" textLength="602.375" id="tp_1_shadow" fill="#000000">Created with Aspose.Slides for Python via .NET 25.1.</tspan><tspan x="58.8125" y="189.09375" textLength="602.375" id="tp_1">Created with Aspose.Slides for Python via .NET 25.1.</tspan><tspan x="151.72537" y="215.69412" textLength="416.125" id="tp_2_shadow" fill="#000000">Copyright 2004-2025Aspose Pty Ltd.</tspan><tspan x="151.9375" y="215.90625" textLength="416.125" id="tp_2">Copyright 2004-2025Aspose Pty Ltd.</tspan></text></g>
+</svg>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10in" height="5.625in" class="slides-canvas" viewBox="0 0 720 405">
+  <defs>
+    <marker id="ah1" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="7" viewBox="-6 -3.5 12 7" orient="auto">
+      <path d="M2.7 -0L-0.3 1.5-0.3-1.5 2.7 -0z" fill="#4472C4" />
+    </marker>
+  </defs>
+  <g text-rendering="geometricPrecision" transform="scale(1, 1)">
+    <rect x="0" y="0" width="720" height="405" fill="#FFFFFF" />
+    <path fill="#D9D9D9" d="M28.8 13.8L208.8 13.8 208.8 49.8 28.8 49.8z" />
+    <g transform="matrix(1, 0, 0, 1, 36, 17.4)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="12.307816" y="20.448002"><tspan x="12.307816" y="20.448002">Remote-control car</tspan></text></g>
+    <g transform="matrix(1, 0, 0, 1, 193.99998, 47.1)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="19.460548" y="15.982"><tspan x="29.604103" y="1.5820007">Wireless</tspan><tspan xml:space="preserve" x="71.1959" y="1.5820007"> </tspan><tspan x="19.460548" y="15.982">transmission</tspan></text></g>
+    <path fill="#D9D9D9" d="M33.2 292.35L208.8 292.35 208.8 321.15 33.2 321.15z" />
+    <g transform="matrix(1, 0, 0, 1, 40.399918, 295.94992)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="6.252388" y="16.848"><tspan x="6.252388" y="16.848">Wireless transmitter</tspan></text></g>
+    <path fill="#D9D9D9" d="M279.2 13.8L495.2 13.8 495.2 49.8 279.2 49.8z" />
+    <g transform="matrix(1, 0, 0, 1, 286.40002, 17.4)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="54.609573" y="20.448002"><tspan x="54.609573" y="20.448002">LCD Monitor</tspan></text></g>
+    <path fill="#FFFFFF" d="M286.8 69.4L358.8 69.4 358.8 91 286.8 91z" />
+    <g transform="matrix(1, 0, 0, 1, 294, 73)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="9.182814" y="22.176003"><tspan x="10.675001" y="2.9759989">13 Hz</tspan><tspan xml:space="preserve" x="46.925003" y="2.9759989"> </tspan><tspan x="9.182814" y="22.176003">flicker</tspan></text></g>
+    <path fill="#FFFFFF" d="M351.2 69.4L423.2 69.4 423.2 91 351.2 91z" />
+    <g transform="matrix(1, 0, 0, 1, 358.40002, 73)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="9.182814" y="22.176003"><tspan x="10.675001" y="2.9759989">14 Hz</tspan><tspan xml:space="preserve" x="46.925003" y="2.9759989"> </tspan><tspan x="9.182814" y="22.176003">flicker</tspan></text></g>
+    <path fill="#FFFFFF" d="M416.4 69.4L488.4 69.4 488.4 91 416.4 91z" />
+    <g transform="matrix(1, 0, 0, 1, 423.6, 73)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="9.182814" y="22.176003"><tspan x="10.675001" y="2.9759989">15 Hz</tspan><tspan xml:space="preserve" x="46.925003" y="2.9759989"> </tspan><tspan x="9.182814" y="22.176003">flicker</tspan></text></g>
+    <path fill="#D9D9D9" d="M248 288.75L495.2 288.75 495.2 324.75 248 324.75z" />
+    <g transform="matrix(1, 0, 0, 1, 255.2, 292.3499)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="46.268166" y="20.448002"><tspan x="46.268166" y="20.448002">Personal Computer</tspan></text></g>
+    <path fill="#FFFFFF" d="M243.2 243.71L373.6 243.71 373.6 266.91 243.2 266.91z" />
+    <g transform="matrix(1, 0, 0, 1, 250.4, 247.31229)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="8.082031" y="22.97604"><tspan x="11.8203125" y="3.7760382">Matched filter</tspan><tspan xml:space="preserve" x="104.17969" y="3.7760382"> </tspan><tspan x="8.082031" y="22.97604">detector (MFD)</tspan></text></g>
+    <path fill="#FFFFFF" d="M360 224.02L510.4 224.02 510.4 250.27 360 250.27z" />
+    <g transform="matrix(1, 0, 0, 1, 367.2, 227.62473)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="12pt" fill="#000000" x="43.625" y="43.70112"><tspan x="4.6914062" y="-13.89888">Ensemble empirical</tspan><tspan xml:space="preserve" x="131.3086" y="-13.89888"> </tspan><tspan x="49.1875" y="5.3011227">mode</tspan><tspan xml:space="preserve" x="86.8125" y="5.3011227"> </tspan><tspan x="19.566406" y="24.50112">decomposition</tspan><tspan xml:space="preserve" x="116.43359" y="24.50112"> </tspan><tspan x="43.625" y="43.70112">(EEMD)</tspan></text></g>
+    <path fill="#D9D9D9" d="M523.6 288.75L694 288.75 694 324.75 523.6 324.75z" />
+    <g transform="matrix(1, 0, 0, 1, 530.8, 292.3499)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="4.226074" y="20.448002"><tspan x="4.226074" y="20.448002">A/D conversion card</tspan></text></g>
+    <path stroke-dasharray="2, 1.5" marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M208.8 31.8L276.31 31.8 276.56 31.8" />
+    <path fill="#D9D9D9" d="M532.8 13.8L684.8 13.8 684.8 49.8 532.8 49.8z" />
+    <g transform="matrix(1, 0, 0, 1, 540, 17.4)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="49.859573" y="20.448002"><tspan x="49.859573" y="20.448002">Brain</tspan></text></g>
+    <g transform="matrix(-1, -0, 0, 1, 1028, 0)">
+      <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M495.2 31.8L529.91 31.8 530.16 31.8" />
+    </g>
+    <path fill="#D9D9D9" d="M536.8 105.6L680.8 105.6 680.8 134.4 536.8 134.4z" />
+    <g transform="matrix(1, 0, 0, 1, 544, 109.2)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="4.6789093" y="16.848"><tspan x="4.6789093" y="16.848">Signals recorded</tspan><tspan xml:space="preserve" x="124.9211" y="16.848"> </tspan></text></g>
+    <path fill="#D9D9D9" d="M536.8 161.4L680.8 161.4 680.8 190.2 536.8 190.2z" />
+    <g transform="matrix(1, 0, 0, 1, 544, 165)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="18.237503" y="16.848"><tspan x="18.237503" y="16.848">Bio amplifier</tspan><tspan xml:space="preserve" x="111.3625" y="16.848"> </tspan></text></g>
+    <path fill="#D9D9D9" d="M46.8 173.07L190.8 173.07 190.8 201.87 46.8 201.87z" />
+    <g transform="matrix(1, 0, 0, 1, 54, 176.67488)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="2.1251984" y="16.848"><tspan x="2.1251984" y="16.848">Wireless receiver</tspan></text></g>
+    <g transform="matrix(-1, -0, -0, -1, 239.8, 494.2248)">
+      <path stroke-dasharray="2, 1.5" marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M118.8 201.87L120.93 289.43 120.94 289.68" />
+    </g>
+    <path fill="#FFFFFF" d="M28.8 240.3L224 240.3 224 252.3 28.8 252.3z" />
+    <g transform="matrix(1, 0, 0, 1, 35.999992, 243.89984)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="9pt" fill="#000000" x="37.28965" y="6.4320793"><tspan x="37.28965" y="6.4320793">Wireless transmission</tspan></text></g>
+    <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M608.8 49.8L608.8 102.71 608.8 102.96" />
+    <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M608.8 134.4L608.8 158.51 608.8 158.76" />
+    <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M608.8 190.2L608.8 285.86 608.8 286.11" />
+    <g transform="matrix(-1, -0, 0, 1, 1018.80005, 0)">
+      <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M495.2 306.75L520.71 306.75 520.96 306.75" />
+    </g>
+    <g transform="matrix(-1, -0, 0, 1, 456.80002, 0)">
+      <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M208.8 306.75L245.11 306.75 245.36 306.75" />
+    </g>
+    <g transform="matrix(1, 0, -0, -1, 0, 222.87488)">
+      <path marker-end="url(#ah1)" stroke-width="0.5" stroke="#4472C4" fill="none" d="M118.8 49.8L118.8 170.19 118.8 170.44" />
+    </g>
+    <path fill="#FFFFFF" d="M49 72.85L193 72.85 193 101.65 49 101.65z" />
+    <g transform="matrix(1, 0, 0, 1, 56.199997, 76.44992)"><text font-family="Calibri" font-style="normal" font-weight="normal" font-stretch="normal" font-size="13.5pt" fill="#000000" x="4.6154327" y="16.848"><tspan x="4.6154327" y="16.848">Wireless camera</tspan></text></g><text font-family="Arial" font-style="normal" font-weight="bold" font-stretch="normal" font-size="18pt" fill="#FFD8CF" fill-opacity="0.75" x="268.125" y="162.28125"><tspan x="267.91287" y="162.06912" textLength="183.75" id="tp_0_shadow" fill="#000000">Evaluation only.</tspan><tspan x="268.125" y="162.28125" textLength="183.75" id="tp_0">Evaluation only.</tspan><tspan x="58.60037" y="188.88162" textLength="602.375" id="tp_1_shadow" fill="#000000">Created with Aspose.Slides for Python via .NET 25.1.</tspan><tspan x="58.8125" y="189.09375" textLength="602.375" id="tp_1">Created with Aspose.Slides for Python via .NET 25.1.</tspan><tspan x="151.72537" y="215.69412" textLength="416.125" id="tp_2_shadow" fill="#000000">Copyright 2004-2025Aspose Pty Ltd.</tspan><tspan x="151.9375" y="215.90625" textLength="416.125" id="tp_2">Copyright 2004-2025Aspose Pty Ltd.</tspan></text></g>
+</svg>
