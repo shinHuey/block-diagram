@@ -1,4 +1,0 @@
-Flask
-aspose.slides
-werkzeug
-gunicorn
