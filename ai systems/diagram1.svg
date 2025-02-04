@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="10in"
+   height="5.625in"
+   class="slides-canvas"
+   viewBox="0 0 720 405"
+   id="svg65"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       id="ah1"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="7"
+       viewBox="-6 -3.5 12 7"
+       orient="auto">
+      <path
+         d="m 2.7,0 -3,1.5 v -3 z"
+         fill="#4472c4"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="720"
+     height="405"
+     fill="#ffffff"
+     id="rect1"
+     style="text-rendering:geometricPrecision" />
+  <path
+     fill="#d9d9d9"
+     d="m 28.8,13.8 h 180 v 36 h -180 z"
+     id="path2"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(36,17.4)"
+     id="g4"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="66.487503"
+       y="31.443752"
+       id="text4"><tspan
+         x="6.6750031"
+         y="9.843749"
+         id="tspan2">Remote-control</tspan><tspan
+         xml:space="preserve"
+         x="158.925"
+         y="9.843749"
+         id="tspan3"> </tspan><tspan
+         x="66.487503"
+         y="31.443752"
+         id="tspan4">car</tspan></text>
+  </g>
+  <g
+     transform="translate(193.99998,47.1)"
+     id="g7"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="12px"
+       fill="#000000"
+       x="6.9000015"
+       y="16.112499"
+       id="text7"><tspan
+         x="21.400002"
+         y="1.7124996"
+         id="tspan5">Wireless</tspan><tspan
+         xml:space="preserve"
+         x="79.400002"
+         y="1.7124996"
+         id="tspan6"> </tspan><tspan
+         x="6.9000015"
+         y="16.112499"
+         id="tspan7">transmission</tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="M 32.668242,287.03242 H 208.26825 v 40.49867 H 32.668242 Z"
+     id="path7"
+     style="stroke-width:1.18583;text-rendering:geometricPrecision" />
+  <g
+     transform="translate(40.399918,295.94992)"
+     id="g10"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="20.787544"
+       y="27.84375"
+       id="text10"><tspan
+         x="37.100044"
+         y="6.2437477"
+         id="tspan8">Wireless</tspan><tspan
+         xml:space="preserve"
+         x="124.10004"
+         y="6.2437477"
+         id="tspan9"> </tspan><tspan
+         x="20.787544"
+         y="27.84375"
+         id="tspan10">transmitter</tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="m 279.2,13.8 h 216 v 36 h -216 z"
+     id="path10"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(286.40002,17.4)"
+     id="g11"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="40.987503"
+       y="20.643751"
+       id="text11"><tspan
+         x="40.987503"
+         y="20.643751"
+         id="tspan11">LCD Monitor</tspan></text>
+  </g>
+  <path
+     fill="#ffffff"
+     d="m 286.8,69.4 h 72 V 91 h -72 z"
+     id="path11"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(294,73)"
+     id="g15"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="16px"
+       fill="#000000"
+       x="19.175001"
+       y="31.950001"
+       id="text15"><tspan
+         x="4.7375011"
+         y="-6.4500008"
+         id="tspan12">13 Hz</tspan><tspan
+         xml:space="preserve"
+         x="52.862503"
+         y="-6.4500008"
+         id="tspan13"> </tspan><tspan
+         x="4.7375011"
+         y="12.75"
+         id="tspan14">flick</tspan><tspan
+         x="19.175001"
+         y="31.950001"
+         id="tspan15">er</tspan></text>
+  </g>
+  <path
+     fill="#ffffff"
+     d="m 351.2,69.4 h 72 V 91 h -72 z"
+     id="path15"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(358.40002,73)"
+     id="g19"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="16px"
+       fill="#000000"
+       x="19.175001"
+       y="31.950001"
+       id="text19"><tspan
+         x="4.7375011"
+         y="-6.4500008"
+         id="tspan16">14 Hz</tspan><tspan
+         xml:space="preserve"
+         x="52.862503"
+         y="-6.4500008"
+         id="tspan17"> </tspan><tspan
+         x="4.7375011"
+         y="12.75"
+         id="tspan18">flick</tspan><tspan
+         x="19.175001"
+         y="31.950001"
+         id="tspan19">er</tspan></text>
+  </g>
+  <path
+     fill="#ffffff"
+     d="m 416.4,69.4 h 72 V 91 h -72 z"
+     id="path19"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(423.6,73)"
+     id="g23"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="16px"
+       fill="#000000"
+       x="19.175001"
+       y="31.950001"
+       id="text23"><tspan
+         x="4.7375011"
+         y="-6.4500008"
+         id="tspan20">15 Hz</tspan><tspan
+         xml:space="preserve"
+         x="52.862503"
+         y="-6.4500008"
+         id="tspan21"> </tspan><tspan
+         x="4.7375011"
+         y="12.75"
+         id="tspan22">flick</tspan><tspan
+         x="19.175001"
+         y="31.950001"
+         id="tspan23">er</tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="m 248,288.75 h 247.2 v 36 H 248 Z"
+     id="path23"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(255.2,292.3499)"
+     id="g24"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="23.962502"
+       y="20.643751"
+       id="text24"><tspan
+         x="23.962502"
+         y="20.643751"
+         id="tspan24">Personal Computer</tspan></text>
+  </g>
+  <path
+     fill="#ffffff"
+     d="m 243.2,243.71 h 130.4 v 23.2 H 243.2 Z"
+     id="path24"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(250.4,228.70077)"
+     id="g31"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="16px"
+       fill="#000000"
+       x="33.9375"
+       y="42.350037"
+       id="text31"><tspan
+         x="24.3125"
+         y="-15.249962"
+         id="tspan25">Matched</tspan><tspan
+         xml:space="preserve"
+         x="91.6875"
+         y="-15.249962"
+         id="tspan26"> </tspan><tspan
+         x="29.125"
+         y="3.9500389"
+         id="tspan27">filter</tspan><tspan
+         xml:space="preserve"
+         x="86.875"
+         y="3.9500389"
+         id="tspan28"> </tspan><tspan
+         x="19.5"
+         y="23.15004"
+         id="tspan29">detector</tspan><tspan
+         xml:space="preserve"
+         x="96.5"
+         y="23.15004"
+         id="tspan30"> </tspan><tspan
+         x="33.9375"
+         y="42.350037"
+         id="tspan31">(MFD)</tspan></text>
+  </g>
+  <path
+     fill="#ffffff"
+     d="m 360,224.02 h 150.4 v 26.25 H 360 Z"
+     id="path31"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(367.2,227.62473)"
+     id="g38"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="16px"
+       fill="#000000"
+       x="39.125"
+       y="43.875114"
+       id="text38"><tspan
+         x="29.5"
+         y="-13.724882"
+         id="tspan32">Ensemble</tspan><tspan
+         xml:space="preserve"
+         x="106.5"
+         y="-13.724882"
+         id="tspan33"> </tspan><tspan
+         x="0.625"
+         y="5.4751186"
+         id="tspan34">empirical mode</tspan><tspan
+         xml:space="preserve"
+         x="135.375"
+         y="5.4751186"
+         id="tspan35"> </tspan><tspan
+         x="5.4375"
+         y="24.675119"
+         id="tspan36">decomposition</tspan><tspan
+         xml:space="preserve"
+         x="130.5625"
+         y="24.675119"
+         id="tspan37"> </tspan><tspan
+         x="39.125"
+         y="43.875114"
+         id="tspan38">(EEMD)</tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="M 523.6,288.75 H 694 v 36 H 523.6 Z"
+     id="path38"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(530.8,292.3499)"
+     id="g41"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="56.25"
+       y="31.443752"
+       id="text41"><tspan
+         x="1.875"
+         y="9.843749"
+         id="tspan39">A/D conversion</tspan><tspan
+         xml:space="preserve"
+         x="154.125"
+         y="9.843749"
+         id="tspan40"> </tspan><tspan
+         x="56.25"
+         y="31.443752"
+         id="tspan41">card</tspan></text>
+  </g>
+  <path
+     stroke-dasharray="2, 1.5"
+     marker-end="url(#ah1)"
+     stroke-width="0.5"
+     stroke="#4472c4"
+     fill="none"
+     d="m 208.8,31.8 h 67.51 0.25"
+     id="path41"
+     style="text-rendering:geometricPrecision" />
+  <path
+     fill="#d9d9d9"
+     d="m 532.8,13.8 h 152 v 36 h -152 z"
+     id="path42"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(540,17.4)"
+     id="g42"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="41.612503"
+       y="20.643751"
+       id="text42"><tspan
+         x="41.612503"
+         y="20.643751"
+         id="tspan42">Brain</tspan></text>
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,1028,0)"
+     id="g43"
+     style="text-rendering:geometricPrecision">
+    <path
+       marker-end="url(#ah1)"
+       stroke-width="0.5"
+       stroke="#4472c4"
+       fill="none"
+       d="m 495.2,31.8 h 34.71 0.25"
+       id="path43" />
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="m 536.8,105.6 h 144 v 28.8 h -144 z"
+     id="path44"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(544,109.2)"
+     id="g47"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="21.300003"
+       y="27.84375"
+       id="text47"><tspan
+         x="26.737503"
+         y="6.2437477"
+         id="tspan44">Signals</tspan><tspan
+         xml:space="preserve"
+         x="102.8625"
+         y="6.2437477"
+         id="tspan45"> </tspan><tspan
+         x="21.300003"
+         y="27.84375"
+         id="tspan46">recorded</tspan><tspan
+         xml:space="preserve"
+         x="108.3"
+         y="27.84375"
+         id="tspan47"> </tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="m 536.8,161.4 h 144 v 28.8 h -144 z"
+     id="path47"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(544,165)"
+     id="g51"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="15.862503"
+       y="27.84375"
+       id="text51"><tspan
+         x="48.487503"
+         y="6.2437477"
+         id="tspan48">Bio</tspan><tspan
+         xml:space="preserve"
+         x="81.112503"
+         y="6.2437477"
+         id="tspan49"> </tspan><tspan
+         x="15.862503"
+         y="27.84375"
+         id="tspan50">amplifier</tspan><tspan
+         xml:space="preserve"
+         x="113.7375"
+         y="27.84375"
+         id="tspan51"> </tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="m 46.8,165.62539 h 144 v 42.6257 h -144 z"
+     id="path51"
+     style="stroke-width:1.21658;text-rendering:geometricPrecision" />
+  <g
+     transform="translate(54,176.67488)"
+     id="g54"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="21.300003"
+       y="27.84375"
+       id="text54"><tspan
+         x="21.300003"
+         y="6.2437477"
+         id="tspan52">Wireless</tspan><tspan
+         xml:space="preserve"
+         x="108.3"
+         y="6.2437477"
+         id="tspan53"> </tspan><tspan
+         x="21.300003"
+         y="27.84375"
+         id="tspan54">receiver</tspan></text>
+  </g>
+  <g
+     transform="matrix(-1.0238592,0,0,-0.94027198,242.67476,482.12355)"
+     id="g55"
+     style="text-rendering:geometricPrecision">
+    <path
+       stroke-dasharray="2, 1.5"
+       marker-end="url(#ah1)"
+       stroke-width="0.5"
+       stroke="#4472c4"
+       fill="none"
+       d="m 118.8,201.87 2.13,87.56 0.01,0.25"
+       id="path54" />
+  </g>
+  <path
+     fill="#ffffff"
+     d="M 28.8,240.3 H 224 v 12 H 28.8 Z"
+     id="path55"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(35.999992,243.89984)"
+     id="g56"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="12px"
+       fill="#000000"
+       x="14.275002"
+       y="6.5625792"
+       id="text55"><tspan
+         x="14.275002"
+         y="6.5625792"
+         id="tspan55">Wireless transmission</tspan></text>
+  </g>
+  <path
+     marker-end="url(#ah1)"
+     stroke-width="0.5"
+     stroke="#4472c4"
+     fill="none"
+     d="m 608.8,49.8 v 52.91 0.25"
+     id="path56"
+     style="text-rendering:geometricPrecision" />
+  <path
+     marker-end="url(#ah1)"
+     stroke-width="0.5"
+     stroke="#4472c4"
+     fill="none"
+     d="m 608.8,134.4 v 24.11 0.25"
+     id="path57"
+     style="text-rendering:geometricPrecision" />
+  <path
+     marker-end="url(#ah1)"
+     stroke-width="0.5"
+     stroke="#4472c4"
+     fill="none"
+     d="m 608.8,190.2 v 95.66 0.25"
+     id="path58"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="matrix(-1,0,0,1,1018.8001,0)"
+     id="g59"
+     style="text-rendering:geometricPrecision">
+    <path
+       marker-end="url(#ah1)"
+       stroke-width="0.5"
+       stroke="#4472c4"
+       fill="none"
+       d="m 495.2,306.75 h 25.51 0.25"
+       id="path59" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,456.80002,0)"
+     id="g60"
+     style="text-rendering:geometricPrecision">
+    <path
+       marker-end="url(#ah1)"
+       stroke-width="0.5"
+       stroke="#4472c4"
+       fill="none"
+       d="m 208.8,306.75 h 36.31 0.25"
+       id="path60" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-0.93533026,0,211.67796)"
+     id="g61"
+     style="text-rendering:geometricPrecision">
+    <path
+       marker-end="url(#ah1)"
+       stroke-width="0.5"
+       stroke="#4472c4"
+       fill="none"
+       d="m 118.8,49.8 v 120.39 0.25"
+       id="path61" />
+  </g>
+  <path
+     fill="#ffffff"
+     d="m 49,72.85 h 144 v 28.8 H 49 Z"
+     id="path62"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(56.199997,76.44992)"
+     id="g64"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="32.175003"
+       y="27.84375"
+       id="text64"><tspan
+         x="21.300003"
+         y="6.2437477"
+         id="tspan62">Wireless</tspan><tspan
+         xml:space="preserve"
+         x="108.3"
+         y="6.2437477"
+         id="tspan63"> </tspan><tspan
+         x="32.175003"
+         y="27.84375"
+         id="tspan64">camera</tspan></text>
+  </g>
+</svg>

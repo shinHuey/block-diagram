@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="10in"
+   height="5.625in"
+   class="slides-canvas"
+   viewBox="0 0 720 405"
+   id="svg45"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       id="ah1"
+       markerUnits="userSpaceOnUse"
+       markerWidth="12"
+       markerHeight="7"
+       viewBox="-6 -3.5 12 7"
+       orient="auto">
+      <path
+         d="M2.7 -0L-0.3 1.5-0.3-1.5 2.7 -0z"
+         fill="#4472C4"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="720"
+     height="405"
+     fill="#ffffff"
+     id="rect1"
+     style="text-rendering:geometricPrecision" />
+  <path
+     fill="#d9d9d9"
+     d="m 28.01,36 h 252 v 36 h -252 z"
+     id="path2"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(35.21031,39.6)"
+     id="g4"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="26.362503"
+       y="31.443752"
+       id="text4"><tspan
+         x="48.112503"
+         y="9.843749"
+         id="tspan2">SSVEP Stimuli</tspan><tspan
+         xml:space="preserve"
+         x="189.4875"
+         y="9.843749"
+         id="tspan3"> </tspan><tspan
+         x="26.362503"
+         y="31.443752"
+         id="tspan4">(Flicker Monitor)</tspan></text>
+  </g>
+  <path
+     fill="#ffffff"
+     d="m 323.14,76.93 h 169.04 v 36 H 323.14 Z"
+     id="path4"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(330.33923,80.52575)"
+     id="g7"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="16px"
+       fill="#000000"
+       x="19.571144"
+       y="29.550003"
+       id="text7"><tspan
+         x="24.383644"
+         y="10.350001"
+         id="tspan5">EEG Signals</tspan><tspan
+         xml:space="preserve"
+         x="130.25864"
+         y="10.350001"
+         id="tspan6"> </tspan><tspan
+         x="19.571144"
+         y="29.550003"
+         id="tspan7">(8 Channels)</tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="m 422.64,271.96 h 194.21 v 36 H 422.64 Z"
+     id="path7"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(429.8421,275.5563)"
+     id="g10"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="35.530281"
+       y="31.443752"
+       id="text10"><tspan
+         x="57.280281"
+         y="9.843749"
+         id="tspan8">Signal</tspan><tspan
+         xml:space="preserve"
+         x="122.53028"
+         y="9.843749"
+         id="tspan9"> </tspan><tspan
+         x="35.530281"
+         y="31.443752"
+         id="tspan10">Processing</tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="M 50.89,271.96 H 297.3 v 36 H 50.89 Z"
+     id="path10"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(58.094803,275.5564)"
+     id="g13"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="23.56636"
+       y="31.443752"
+       id="text13"><tspan
+         x="39.87886"
+         y="9.843749"
+         id="tspan11">Classification</tspan><tspan
+         xml:space="preserve"
+         x="192.12886"
+         y="9.843749"
+         id="tspan12"> </tspan><tspan
+         x="23.56636"
+         y="31.443752"
+         id="tspan13">(Decision Making)</tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="m 35.02,166.52 h 144 v 36 h -144 z"
+     id="path13"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(42.22425,170.11797)"
+     id="g16"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="32.175003"
+       y="31.443752"
+       id="text16"><tspan
+         x="26.737503"
+         y="9.843749"
+         id="tspan14">Control</tspan><tspan
+         xml:space="preserve"
+         x="102.8625"
+         y="9.843749"
+         id="tspan15"> </tspan><tspan
+         x="32.175003"
+         y="31.443752"
+         id="tspan16">Signal</tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="m 278.64,166.12 h 144 v 36 h -144 z"
+     id="path16"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(285.8421,169.72142)"
+     id="g18"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="59.362503"
+       y="31.443752"
+       id="text18"><tspan
+         x="4.9875031"
+         y="9.843749"
+         id="tspan17">Laptop/Phon</tspan><tspan
+         x="59.362503"
+         y="31.443752"
+         id="tspan18">e</tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="M 345.41,36 H 460.99 V 72 H 345.41 Z"
+     id="path18"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(352.60922,39.6)"
+     id="g19"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="23.401951"
+       y="20.643751"
+       id="text19"><tspan
+         x="23.401951"
+         y="20.643751"
+         id="tspan19">Brain</tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="m 519.75,36 h 144 v 36 h -144 z"
+     id="path19"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(526.9474,39.6)"
+     id="g23"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="21.300003"
+       y="31.443752"
+       id="text23"><tspan
+         x="26.737503"
+         y="9.843749"
+         id="tspan20">Signals</tspan><tspan
+         xml:space="preserve"
+         x="102.8625"
+         y="9.843749"
+         id="tspan21"> </tspan><tspan
+         x="21.300003"
+         y="31.443752"
+         id="tspan22">recorded</tspan><tspan
+         xml:space="preserve"
+         x="108.3"
+         y="31.443752"
+         id="tspan23"> </tspan></text>
+  </g>
+  <path
+     fill="#d9d9d9"
+     d="m 519.75,163.37 h 144 v 36 h -144 z"
+     id="path23"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(526.9474,166.97488)"
+     id="g27"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="18px"
+       fill="#000000"
+       x="15.862503"
+       y="31.44371"
+       id="text27"><tspan
+         x="48.487503"
+         y="9.843709"
+         id="tspan24">Bio</tspan><tspan
+         xml:space="preserve"
+         x="81.112503"
+         y="9.843709"
+         id="tspan25"> </tspan><tspan
+         x="15.862503"
+         y="31.44371"
+         id="tspan26">amplifier</tspan><tspan
+         xml:space="preserve"
+         x="113.7375"
+         y="31.44371"
+         id="tspan27"> </tspan></text>
+  </g>
+  <path
+     marker-end="url(#ah1)"
+     stroke-width="0.5"
+     stroke="#4472c4"
+     fill="none"
+     d="m 492.18,54 h 24.68 0.25"
+     id="path27"
+     style="text-rendering:geometricPrecision" />
+  <path
+     marker-end="url(#ah1)"
+     stroke-width="0.5"
+     stroke="#4472c4"
+     fill="none"
+     d="m 591.75,72 v 88.49 0.25"
+     id="path28"
+     style="text-rendering:geometricPrecision" />
+  <path
+     fill="#ffffff"
+     d="m 422.64,319.47 h 194.21 v 36 H 422.64 Z"
+     id="path29"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(429.8421,323.0667)"
+     id="g31"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="16px"
+       fill="#000000"
+       x="3.2802811"
+       y="29.550003"
+       id="text31"><tspan
+         x="36.967781"
+         y="10.350001"
+         id="tspan29">Filtering +</tspan><tspan
+         xml:space="preserve"
+         x="142.84277"
+         y="10.350001"
+         id="tspan30"> </tspan><tspan
+         x="3.2802811"
+         y="29.550003"
+         id="tspan31">Feature Extraction</tspan></text>
+  </g>
+  <path
+     stroke-width="1"
+     stroke="#000000"
+     fill="none"
+     d="m 323.14,24.51 h 169.04 v 94.98 H 323.14 Z"
+     id="path31"
+     style="text-rendering:geometricPrecision" />
+  <path
+     stroke-width="1"
+     stroke="#000000"
+     fill="none"
+     d="m 412.37,262.77 h 214.76 v 106.2 H 412.37 Z"
+     id="path32"
+     style="text-rendering:geometricPrecision" />
+  <path
+     stroke-width="1"
+     stroke="#000000"
+     fill="none"
+     d="m 12.27,24.51 h 284.26 v 94.98 H 12.27 Z"
+     id="path33"
+     style="text-rendering:geometricPrecision" />
+  <path
+     fill="#ffffff"
+     d="m 56.93,76.23 h 194.21 v 36 H 56.93 Z"
+     id="path34"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(64.128746,79.833145)"
+     id="g38"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="16px"
+       fill="#000000"
+       x="12.905281"
+       y="19.950001"
+       id="text38"><tspan
+         x="12.905281"
+         y="19.950001"
+         xml:space="preserve"
+         id="tspan34">20Hz</tspan><tspan
+         xml:space="preserve"
+         x="51.405281"
+         y="19.950001"
+         id="tspan35">  </tspan><tspan
+         x="70.655281"
+         y="19.950001"
+         xml:space="preserve"
+         id="tspan36">15Hz</tspan><tspan
+         xml:space="preserve"
+         x="109.15528"
+         y="19.950001"
+         id="tspan37">  </tspan><tspan
+         x="128.40527"
+         y="19.950001"
+         xml:space="preserve"
+         id="tspan38">10Hz</tspan></text>
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,619.6653,0)"
+     id="g39"
+     style="text-rendering:geometricPrecision">
+    <path
+       marker-end="url(#ah1)"
+       stroke-width="0.5"
+       stroke="#4472c4"
+       fill="none"
+       d="m 296.53,54 h 23.72 0.25"
+       id="path38" />
+  </g>
+  <path
+     fill="#ffffff"
+     d="m 77.89,310.07 h 194.22 v 36 H 77.89 Z"
+     id="path39"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="translate(85.09481,313.67426)"
+     id="g40"
+     style="text-rendering:geometricPrecision">
+    <text
+       font-family="'Lucida Console'"
+       font-style="normal"
+       font-weight="normal"
+       font-stretch="normal"
+       font-size="16px"
+       fill="#000000"
+       x="12.905281"
+       y="19.950001"
+       id="text39"><tspan
+         x="12.905281"
+         y="19.950001"
+         id="tspan39">Machine Learning</tspan></text>
+  </g>
+  <path
+     stroke-width="1"
+     stroke="#000000"
+     fill="none"
+     d="m 40.62,262.77 h 267.01 v 106.2 H 40.62 Z"
+     id="path40"
+     style="text-rendering:geometricPrecision" />
+  <path
+     marker-end="url(#ah1)"
+     stroke-width="0.5"
+     stroke="#4472c4"
+     fill="none"
+     d="m 591.75,199.37 v 60.51 0.25"
+     id="path41"
+     style="text-rendering:geometricPrecision" />
+  <g
+     transform="matrix(-1,0,0,1,720.00006,0)"
+     id="g42"
+     style="text-rendering:geometricPrecision">
+    <path
+       marker-end="url(#ah1)"
+       stroke-width="0.5"
+       stroke="#4472c4"
+       fill="none"
+       d="m 307.63,315.87 h 101.85 0.25"
+       id="path42" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,0,465.28568)"
+     id="g43"
+     style="text-rendering:geometricPrecision">
+    <path
+       marker-end="url(#ah1)"
+       stroke-width="0.5"
+       stroke="#4472c4"
+       fill="none"
+       d="m 107.02,202.52 v 57.36 0.25"
+       id="path43" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,0,368.63937)"
+     id="g44"
+     style="text-rendering:geometricPrecision">
+    <path
+       marker-end="url(#ah1)"
+       stroke-width="0.5"
+       stroke="#4472c4"
+       fill="none"
+       d="m 179.02,184.12 96.73,0.39 H 276"
+       id="path44" />
+  </g>
+</svg>
